@@ -9,7 +9,7 @@ Please see [CONTRIBUTING](CONTRIBUTING.md).
 ## Testing
 
 ### To test the functions:
-1. Run <code>npm install</code> to install the dependencies (need node.js for npm). If you don't have node please visit the [Node JS](https://nodejs.org/en/) website to download. It is recommended to download the LTS version.
+1. Run <code>npm install</code> to install the dependencies (need node.js for npm). If you don't have node please visit the [Node JS](https://nodejs.org/en/) website to download. It is recommended to download the LTS version..
 2. Change <code>filename</code> in <code>test/tests.js</code> to the name of your solution file (optional).
 3. Make sure your solution file is in the <code>Solutions</code> folder.
 4. Make sure your function names match the ones listed below as you're coding them.
